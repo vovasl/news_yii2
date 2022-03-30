@@ -47,5 +47,5 @@ frontend
     widgets/             contains frontend widgets
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
-web/                 contains the entry script and Web resources
+web/                     contains the entry script and Web resources
 ```
