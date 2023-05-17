@@ -6,7 +6,7 @@
     <br>
 </p>
 
-News Yii2
+Yii2 test task
 
 
 
